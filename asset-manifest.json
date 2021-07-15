@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alonsogalcantara.github.io.git/static/css/main.7e4d37a7.chunk.css",
+    "main.js": "/alonsogalcantara.github.io.git/static/js/main.87c62fa9.chunk.js",
+    "main.js.map": "/alonsogalcantara.github.io.git/static/js/main.87c62fa9.chunk.js.map",
+    "runtime-main.js": "/alonsogalcantara.github.io.git/static/js/runtime-main.23834267.js",
+    "runtime-main.js.map": "/alonsogalcantara.github.io.git/static/js/runtime-main.23834267.js.map",
+    "static/js/2.944c12ef.chunk.js": "/alonsogalcantara.github.io.git/static/js/2.944c12ef.chunk.js",
+    "static/js/2.944c12ef.chunk.js.map": "/alonsogalcantara.github.io.git/static/js/2.944c12ef.chunk.js.map",
+    "static/js/3.76d137d9.chunk.js": "/alonsogalcantara.github.io.git/static/js/3.76d137d9.chunk.js",
+    "static/js/3.76d137d9.chunk.js.map": "/alonsogalcantara.github.io.git/static/js/3.76d137d9.chunk.js.map",
+    "index.html": "/alonsogalcantara.github.io.git/index.html",
+    "static/css/main.7e4d37a7.chunk.css.map": "/alonsogalcantara.github.io.git/static/css/main.7e4d37a7.chunk.css.map",
+    "static/js/2.944c12ef.chunk.js.LICENSE.txt": "/alonsogalcantara.github.io.git/static/js/2.944c12ef.chunk.js.LICENSE.txt",
+    "static/media/java-logo.f5dd86c3.png": "/alonsogalcantara.github.io.git/static/media/java-logo.f5dd86c3.png",
+    "static/media/mysql-logo.ef465e62.png": "/alonsogalcantara.github.io.git/static/media/mysql-logo.ef465e62.png",
+    "static/media/python-logo.3f5dd2d7.png": "/alonsogalcantara.github.io.git/static/media/python-logo.3f5dd2d7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23834267.js",
+    "static/js/2.944c12ef.chunk.js",
+    "static/css/main.7e4d37a7.chunk.css",
+    "static/js/main.87c62fa9.chunk.js"
+  ]
+}
