@@ -1,6 +1,6 @@
 {
-  "short_name": "my profile",
-  "name": "just my profile",
+  "short_name": "profile",
+  "name": "mi perfil",
   "icons": [
     {
       "src": "../src/images/favicon.svg",
